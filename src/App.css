@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.shop {
+  width: 100vw;
+  background-color: #89a;
+}
